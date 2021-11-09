@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  neo4j-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-09T21:05:55.2177184+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d11730b455da3ea54041a7f3547d5b370627c2bafe02e9095febf4e281a99cc5
+    name: neo4j-helm
+    type: application
+    urls:
+    - https://venkaiah.github.io/helm-neo4j/neo4j-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-09T21:05:54.837826+05:30"
